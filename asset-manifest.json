@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/staticpage_clamkids/static/css/main.073c9b0a.css",
+    "main.js": "/staticpage_clamkids/static/js/main.4e198c19.js",
+    "static/js/787.8f5592e2.chunk.js": "/staticpage_clamkids/static/js/787.8f5592e2.chunk.js",
+    "index.html": "/staticpage_clamkids/index.html",
+    "main.073c9b0a.css.map": "/staticpage_clamkids/static/css/main.073c9b0a.css.map",
+    "main.4e198c19.js.map": "/staticpage_clamkids/static/js/main.4e198c19.js.map",
+    "787.8f5592e2.chunk.js.map": "/staticpage_clamkids/static/js/787.8f5592e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e198c19.js"
+  ]
+}
